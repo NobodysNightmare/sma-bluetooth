@@ -1,2 +1,6 @@
+# Compilation artifacts
 /smatool
 *.o
+
+# Configuration
+/smatool.conf
